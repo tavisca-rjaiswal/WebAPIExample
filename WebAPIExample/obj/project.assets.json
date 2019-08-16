@@ -8183,7 +8183,7 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "YWq7qYa9rPNt37r8btjBCqG6VQSw9owyaKYEnLa1Rzgzn8nxRMwygvPZpZ8nAiZTsUjmk8mKRPZX7VmjzeI9pA==",
+      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
@@ -8375,7 +8375,7 @@
       ]
     },
     "System.Diagnostics.StackTrace/4.3.0": {
-      "sha512": "l8kmQXgqxZVXe2/YGVS+5bGJIJ3VmJT41IuXz6N+0lE+gRwqsVg/8n4C3cmRDrSaueLRwIIqtHIKEB8xaH27Yg==",
+      "sha512": "BiHg0vgtd35/DM9jvtaC1eKRpWZxr0gcQd643ABG7GnvSlf5pOkY2uyd42mMOJoOmKvnpNj0F4tuoS1pacTwYw==",
       "type": "package",
       "path": "system.diagnostics.stacktrace/4.3.0",
       "files": [
@@ -9221,7 +9221,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "c+k6wwCr+Dn4n9D/YI8cGKXahnGGWDdcftvjSaGFo4apwIWDuhkjI0DS4lY+MVc4JIttLhyVhxQuHN8I8L7RWw==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -11913,7 +11913,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -12068,7 +12068,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\snarhe\\.nuget\\packages\\": {},
+    "C:\\Users\\rjaiswal\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12077,17 +12077,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+      "projectUniqueName": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
       "projectName": "WebAPIExample",
-      "projectPath": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
-      "packagesPath": "C:\\Users\\snarhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExample\\obj\\",
+      "projectPath": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+      "packagesPath": "C:\\Users\\rjaiswal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\snarhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rjaiswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -2283,7 +2283,7 @@
       ]
     },
     "Microsoft.Win32.Registry/4.0.0": {
-      "sha512": "inSg617G2nXyyj69cD2iH+yATm072aHxSDTwAvmzbdGxkM/qlMK4Ife6Bmy7yMFqoev8An8wtDKW203NlexIhw==",
+      "sha512": "q+eLtROUAQ3OxYA5mpQrgyFgzLQxIyrfT2eLpYX5IEPlHmIio2nh4F5bgOaQoGOV865kFKZZso9Oq9RlazvXtg==",
       "type": "package",
       "path": "microsoft.win32.registry/4.0.0",
       "files": [
@@ -2671,7 +2671,7 @@
       ]
     },
     "System.Collections.Immutable/1.2.0": {
-      "sha512": "Q5ZLbME9vmIicrpZQ23xGu5IeeUrLs37w5o4ZZiFMa4tNZoF4ag8isdPwq2W0+qLHFaFIh0kTJB5uxr5KRqfog==",
+      "sha512": "Cma8cBW6di16ZLibL8LYQ+cLjGzoKxpOTu/faZfDcx94ZjAGq6Nv5RO7+T1YZXqEXTZP9rt1wLVEONVpURtUqw==",
       "type": "package",
       "path": "system.collections.immutable/1.2.0",
       "files": [
@@ -2687,7 +2687,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.0.1": {
-      "sha512": "n5RK+4KC00OTVwuKm6WNKF5YKsAaL9hxBzg1ZQgio0zXXlix/9TdGcSGgAqo2P66QJey0aUYA2totusAGnzd9Q==",
+      "sha512": "hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.0.1",
       "files": [
@@ -2725,7 +2725,7 @@
       ]
     },
     "System.Collections.Specialized/4.0.1": {
-      "sha512": "PKv9vnxUxc+WYb4zDIxv9Sx2QJVwy7XH0MRa4x6bKGYMqt5CE4cuA8haCMnEPmmiGFQznMUivT0BVm8xTd8qFQ==",
+      "sha512": "/HKQyVP0yH1I0YtK7KJL/28snxHNH/bi+0lgk/+MbURF6ULhAE31MDI+NZDerNWu264YbxklXCCygISgm+HMug==",
       "type": "package",
       "path": "system.collections.specialized/4.0.1",
       "files": [
@@ -2763,7 +2763,7 @@
       ]
     },
     "System.ComponentModel/4.0.1": {
-      "sha512": "vF/CbDliHB4mNpXy+zW/GCrAs/XQgXYg+twfKOXs9+VQRX7RQVnYodnfxCq2VGHW2rEPnEJmfEvPv9sZ9B3JUQ==",
+      "sha512": "oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
       "type": "package",
       "path": "system.componentmodel/4.0.1",
       "files": [
@@ -2890,7 +2890,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.1.0": {
-      "sha512": "pb2f3lr3hsIihnjUashI27fMZGCGWvPvrdjymFFwLwLePtvdOtQbPCk8SS1A3Ft+ZdnIEiBt7kPpCOuzxHKsSw==",
+      "sha512": "sc/7eVCdxPrp3ljpgTKVaQGUXiW05phNWvtv/m2kocXqrUQvTVWKou1Edas2aDjTThLPZOxPYIGNb/HN0QjURg==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.1.0",
       "files": [
@@ -2928,7 +2928,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.1.0": {
-      "sha512": "Ubyb8Hw1Zo1MChxIcLT4PAa0vvkzHTHMRFClqD+R+pgDdTHZz4w7cPNASM2YVwluTYO5Ip01qO703aLQhH2GtQ==",
+      "sha512": "MnDAlaeJZy9pdB5ZdOlwdxfpI+LJQ6e0hmH7d2+y2LkiD8DRJynyDYl4Xxf3fWFm7SbEwBZh4elcfzONQLOoQw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.1.0",
       "files": [
@@ -3047,7 +3047,7 @@
       ]
     },
     "System.Diagnostics.Process/4.1.0": {
-      "sha512": "SXb4nnm2LnmT8cZ6OexbI9KeiBza89J6eChMS+e64YbAvcN4UqhRZpPXD0akaOaNKvN36WkwoIrZ/p1Eftv3Kw==",
+      "sha512": "mpVZ5bnlSs3tTeJ6jYyDJEIa6tavhAd88lxq1zbYhkkCu0Pno2+gHXcvZcoygq2d8JxW3gojXqNJMTAshduqZA==",
       "type": "package",
       "path": "system.diagnostics.process/4.1.0",
       "files": [
@@ -4072,7 +4072,7 @@
       ]
     },
     "System.Reflection.Metadata/1.3.0": {
-      "sha512": "JGEd1Iqoo4lWNAo5SdFzyTl8Sdx2oDzqBUqtbTO0RDhqhi07HcGwk6iCYU6SPfp7KybAYISfjuQi51KFcFhXlg==",
+      "sha512": "jMSCxA4LSyKBGRDm/WtfkO03FkcgRzHxwvQRib1bm2GZ8ifKM1MX1al6breGCEQK280mdl9uQS7JNPXRYk90jw==",
       "type": "package",
       "path": "system.reflection.metadata/1.3.0",
       "files": [
@@ -4583,7 +4583,7 @@
       ]
     },
     "System.Runtime.Loader/4.0.0": {
-      "sha512": "XruJ6Y+oYzeJ7KRt6/q0r4CXK7yka8kzY8igatWW1x/eshwz5d/ciiEQ5W8F+f6FzbxyBgs+MxGiDyLeZkcR2A==",
+      "sha512": "4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
       "type": "package",
       "path": "system.runtime.loader/4.0.0",
       "files": [
@@ -5107,7 +5107,7 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "aow8ymSAe7WJvVzNTvPbvZDaU7fvuD0buWfV6FYTeRJyP0xlQNkseooVINLtRK5WWU0EMy7m5KIdrfFh2Pthkw==",
+      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
@@ -5590,7 +5590,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\snarhe\\.nuget\\packages\\": {},
+    "C:\\Users\\rjaiswal\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5599,17 +5599,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExampleFixtures\\WebAPIExampleFixtures.csproj",
+      "projectUniqueName": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExampleFixtures\\WebAPIExampleFixtures.csproj",
       "projectName": "WebAPIExampleFixtures",
-      "projectPath": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExampleFixtures\\WebAPIExampleFixtures.csproj",
-      "packagesPath": "C:\\Users\\snarhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExampleFixtures\\obj\\",
+      "projectPath": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExampleFixtures\\WebAPIExampleFixtures.csproj",
+      "packagesPath": "C:\\Users\\rjaiswal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExampleFixtures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\snarhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rjaiswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5622,8 +5622,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {
-              "projectPath": "C:\\Users\\snarhe\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj"
+            "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {
+              "projectPath": "C:\\Users\\rjaiswal\\source\\repos\\ASP\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj"
             }
           }
         }
