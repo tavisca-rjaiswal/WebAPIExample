@@ -26,10 +26,12 @@ pipeline {
                 bat "dotnet WebAPIExample/bin/Release/netcoreapp2.2/WebAPIExample.dll"
             }
         }
-	    stage('docker') {
+	    stage('docker build') {
             steps {
                 bat "docker build -t webapi -f dockerfile ."
             }
+        }
+	    stage('docker run') {
             steps {
                 bat "docker run --rm -it -p 12345:12345/tcp webapi:latest"
             }
