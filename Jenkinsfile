@@ -33,7 +33,7 @@ pipeline {
         }
 	    stage('docker run') {
             steps {
-                bat "docker run --rm -it -p 12345:12345/tcp webapi:latest"
+                bat "docker run --rm -p 12345:12345/tcp webapi:latest"
             }
         }
     }
