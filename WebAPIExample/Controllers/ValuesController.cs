@@ -46,9 +46,6 @@ namespace WebAPIExample.Controllers
                 return "Index Out of bound";
             if (req.ContainsKey("value"))
                 values[id] = req.SelectToken("value").ToString();
-
-
-
             return "Success";
         }
 
