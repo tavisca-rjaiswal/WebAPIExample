@@ -1,9 +1,9 @@
 FROM mcr.microsoft.com/dotnet/core/sdk
 
+WORKDIR app
+
 COPY WebAPIExample/bin/Release/PublishOutput .
 
-WORKDIR .
-
-EXPOSE 11106
+EXPOSE 12345
 
 ENTRYPOINT ["dotnet", "WebAPIExample.dll"]

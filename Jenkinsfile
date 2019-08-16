@@ -1,8 +1,7 @@
 pipeline {
     agent any
-
     stages {
-	stage('Restore') {
+        stage('Restore') {
             steps {
                 bat "dotnet restore"
             }
@@ -17,12 +16,12 @@ pipeline {
                 bat "dotnet test"
             }
         }
-	stage('publish') {
+    	stage('publish') {
             steps {
                 bat "dotnet publish"
             }
         }
-	stage('run') {
+	    stage('run') {
             steps {
                 bat "dotnet WebAPIExample/bin/Release/netcoreapp2.2/WebAPIExample.dll"
             }
