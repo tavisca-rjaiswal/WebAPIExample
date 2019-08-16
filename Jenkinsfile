@@ -21,11 +21,11 @@ pipeline {
                 bat "dotnet publish"
             }
         }
-	    stage('run') {
-            steps {
-                bat "dotnet WebAPIExample/bin/Release/netcoreapp2.2/WebAPIExample.dll"
-            }
-        }
+	    // stage('run') {
+        //     steps {
+        //         bat "dotnet WebAPIExample/bin/Release/netcoreapp2.2/WebAPIExample.dll"
+        //     }
+        // }
 	    stage('docker build') {
             steps {
                 bat "docker build -t webapi -f dockerfile ."
